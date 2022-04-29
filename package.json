@@ -10,6 +10,8 @@
   "author": "Jonathan Reeves",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1"
+    "bcrypt": "^5.0.1",
+    "mongodb": "^4.5.0",
+    "prompt-sync": "^4.2.0"
   }
 }
